@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CpRh8bhzKrR3oM3+UwUs42V9cGO3mYP6J41O5YDs+WI=",
+  "Source": "TrainTicketServices",
+  "BasePath": "_content/TrainTicketServices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
